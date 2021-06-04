@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "995171548322",
+    "project_id": "bimbelapps-b73d9",
+    "storage_bucket": "bimbelapps-b73d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995171548322:android:2afb627f741e456444ebfb",
+        "android_client_info": {
+          "package_name": "com.codesid.bimbelapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995171548322-q271sa3eemfqeto30u3sgohgmhh5o2fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfX-t1nrOFSGte4n6-AXlHf0fsJ00FY6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995171548322-q271sa3eemfqeto30u3sgohgmhh5o2fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
